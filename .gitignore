@@ -1,0 +1,11 @@
+/build/
+/.metadata/
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+.env
+.env.*
+WebContent/WEB-INF/lib/*.jar.svntmp
